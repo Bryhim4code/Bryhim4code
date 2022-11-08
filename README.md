@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bryhim4code
 - 👀 I’m interested in everything code
-- 🌱 I’m currently learning html & css
+- 🌱 I’m currently learning React and Php
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me bryhimsings all socials 
 
