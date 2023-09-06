@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything code
 - 🌱 I’m currently learning React, Vue and Php(Codeigniter 4)
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me bryhimsings all socials 
+- 📫 How to reach me @bryhimsings all socials 
 
 <!---
 Bryhim4code/Bryhim4code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
