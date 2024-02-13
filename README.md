@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bryhim4code
 - 👀 I’m interested in everything code
-- 🌱 I’m currently learning React, Vue and Php(Codeigniter 4)
+- 🌱 I’m currently working with React, Flutter, Vue  js and Php(Codeigniter 4)
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me @bryhimsings all socials 
 
